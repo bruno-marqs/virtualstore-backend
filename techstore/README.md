@@ -46,3 +46,5 @@ O preço e a quantidade devem ser números válidos.
 * "Quantidade do produto não pode ser negativa" 
 * "Preço deve ser maior que zero" 
 
+# Exemplo de tela com a Aplicação Funcionando
+<img width="618" alt="Captura de Tela 2025-03-03 às 09 34 09" src="https://github.com/user-attachments/assets/f535ffd5-c9cb-455a-a3d1-2aa491562f57" />
