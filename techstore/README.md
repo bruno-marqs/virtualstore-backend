@@ -28,6 +28,7 @@ Certifique-se que o MongoDB está instalado e em execução em sua máquina loca
 ./gradlew run
 ```
 ## Usando a aplicação TechStore
+### Execute o arquivo Main.kt
 A aplicação TechStore é baseada em terminal. Você pode usar os comandos a seguir:
 
 Bem vindo a TechStore
